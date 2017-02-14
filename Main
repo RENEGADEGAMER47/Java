@@ -1,0 +1,51 @@
+public class Java {
+  public static void main(String []args) {
+    Scanner get = new Scanner(system.in);
+    
+    System.out.println("What is your name?");
+    String nameIn  = get.nextLine();
+    System.out.println("Hello " + nameIn + "! Hey, how old are you?");
+    String ageIn = get.nextLine();
+    System.out.println("Wow, okay, um, soooooooo do you want to start the program?");
+    String responseInOne = get.nextLine();
+      if(responseInOne.equalsIgnoreCase("yes") {
+        System.out.println("the Maradus map has started");
+        System.out.println("What is your name?");
+        String name = get.nextLine();
+        System.out.println("" +);
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+        System.out.println();
+        String  = get.nextLine();
+      }else {
+      
+      }
+    
+    
+    System.out.println();
+    String  = get.nextLine();
+    System.out.println();
+    String  = get.nextLine();
+  
+  
+  }
+}
